@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instituto Ejemplo</title>
+    <link rel="stylesheet" href="../CSS/Inicio.CSS">
+</head>
+<body>
+
+    <header class="navbar">
+    <div class="logo">Instituto</div>
+    <nav class="nav-links">
+        <a href="#inicio">Inicio</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#carreras">Carreras</a>
+        <a href="#formulario">Formulario</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+</header>
+
+
+<section id="inicio">
+    <img src="../Image/Logofrotur.png"  width="350px" height="350px">
+    <h1>Bienvenido al Instituto</h1>
+    <p>“Somos una Institución que contribuye a la formación de Profesionales con ética, crítica e innovación.”</p>
+</section>
+
+</body>
+</html>
